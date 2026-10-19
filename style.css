@@ -73,13 +73,13 @@ body{
 }
 
 .logo img{
-    height:46px;
+    height:50px;
     width:auto;
     transition:all 0.65s ease;
 }
 
 .navbar.scrolled .logo img{
-    height:40px;
+    height:44px;
 }
 
 .nav-menu{
